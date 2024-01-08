@@ -76,3 +76,11 @@ async function click() {
 
 setInterval(click, 500);
 ```
+
+### Автоматический запуск
+
+## Установка
+1. Установите расширение [Violentmonkey]([https://www.tampermonkey.net/](https://violentmonkey.github.io/get-it/)).
+2. Установите скрипт. _(Для автоматической установки можно перейти по [этой ссылке](https://github.com/mudachyo/notcoin_automation/raw/main/auto-click-notcoin.user.js))_
+3. Теперь при открытии сайта с коинами скрипт будет запускаться автоматически
+
